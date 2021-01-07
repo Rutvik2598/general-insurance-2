@@ -16,6 +16,6 @@ public class User {
 	private long phoneNo;
 	private String password;
 	
-	private Address address;
+	//private Address address;
 	
 }
